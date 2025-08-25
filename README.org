@@ -15,7 +15,7 @@ For example, in a buffer with =russian-lisp-mode= enabled:
 will appear as:
 
 #+begin_example
-(поставить да нет)
+(дано да нет)
 #+end_example
 
 – but your code is not changed, only prettified!
